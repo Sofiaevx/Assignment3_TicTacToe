@@ -8,4 +8,4 @@ C:\Users\Jv Cataquiz\OOP\Assignment3\tictactoe\obj\Debug\tictactoe.csproj.Genera
 C:\Users\Jv Cataquiz\OOP\Assignment3\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
 C:\Users\Jv Cataquiz\OOP\Assignment3\tictactoe\obj\Debug\tictactoe.exe
 C:\Users\Jv Cataquiz\OOP\Assignment3\tictactoe\obj\Debug\tictactoe.pdb
-C:\Users\Jv Cataquiz\OOP\Assignment3\tictactoe\obj\Debug\tictactoe.tictactoe.resources
+C:\Users\Jv Cataquiz\OOP\Assignment3\tictactoe\obj\Debug\tictactoe.Form2.resources
